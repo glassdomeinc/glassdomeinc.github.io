@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.glassdome.cloud/en/blog</id>
+    <title>글래스돔코리아 기술블로그 Blog</title>
+    <updated>2022-10-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.glassdome.cloud/en/blog"/>
+    <subtitle>글래스돔코리아 기술블로그 Blog</subtitle>
+    <icon>https://blog.glassdome.cloud/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글래스돔코리아 기술블로그 오픈!]]></title>
+        <id>getting-started</id>
+        <link href="https://blog.glassdome.cloud/en/blog/getting-started"/>
+        <updated>2022-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[글래스돔코리아 기술블로그를 개설하였습니다.]]></summary>
+        <content type="html"><![CDATA[<p>글래스돔코리아 기술블로그를 개설하였습니다.</p><p>앞으로 재미있는 기술 이야기들을 올릴 예정입니다.</p><p>많은 관심과 참여 부탁드립니다.</p><p>감사합니다.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="references">References<a class="hash-link" href="#references" title="Direct link to heading">​</a></h2><ul><li><a href="https://techblogposts.com/" target="_blank" rel="noopener noreferrer">TechBlogPosts</a></li><li><a href="https://brunch.co.kr/@sicle-official/35" target="_blank" rel="noopener noreferrer">개발 실력을 위한 IT기업 기술 블로그 45곳 모음</a></li><li><a href="https://github.com/seonggwonyoon/techblog" target="_blank" rel="noopener noreferrer">기술블로그 모음</a></li></ul>]]></content>
+        <author>
+            <name>이현수</name>
+            <uri>https://github.com/civilizeddev</uri>
+        </author>
+        <category label="블로그" term="블로그"/>
+        <category label="blog" term="blog"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
