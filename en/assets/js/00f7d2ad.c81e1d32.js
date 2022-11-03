@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[5960],{3383:l=>{l.exports=JSON.parse('{"label":"golang","permalink":"/en/blog/tags/golang","allTagsPath":"/en/blog/tags","count":2}')}}]);
