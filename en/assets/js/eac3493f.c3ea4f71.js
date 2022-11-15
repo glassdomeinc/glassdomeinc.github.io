@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3245],{74:e=>{e.exports=JSON.parse('{"label":"SQL Injection","permalink":"/en/blog/tags/sql-injection","allTagsPath":"/en/blog/tags","count":1}')}}]);

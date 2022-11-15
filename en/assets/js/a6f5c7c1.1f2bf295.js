@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3880],{9546:e=>{e.exports=JSON.parse('{"label":"goqu","permalink":"/en/blog/tags/goqu","allTagsPath":"/en/blog/tags","count":1}')}}]);
