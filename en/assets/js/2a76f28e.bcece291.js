@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[7762],{3334:e=>{e.exports=JSON.parse('{"label":"downtime","permalink":"/en/blog/tags/downtime","allTagsPath":"/en/blog/tags","count":1}')}}]);
